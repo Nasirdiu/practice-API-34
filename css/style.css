@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.countryClass{
+    background-color: wheat;
+    border: 2px solid royalblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+#countrys{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
